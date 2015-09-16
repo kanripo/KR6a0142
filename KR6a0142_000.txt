@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說四泥犁經
+#+DATE: 2015-08-30 19:32:48.013550
+#+PROPERTY: JUAN 0

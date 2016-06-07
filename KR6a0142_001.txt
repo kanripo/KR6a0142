@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:32:48.964015
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:45
 #+TITLE: 佛說四泥犁經
 #+PROPERTY: CBETA_ID T02n0139
 #+PROPERTY: ID KR6a0142
@@ -15,7 +15,7 @@
 No. 139 [No. 125(50.5)]¶
 《佛說四泥犁經》¶
 ¶
-東晉西域沙門竺曇無蘭譯¶
+東晉西域沙門曇無蘭譯¶
 
 聞如是：
 
